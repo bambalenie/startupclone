@@ -1,0 +1,61 @@
+body{
+	padding-left: 2em;
+	padding-right: 2em;
+ 
+  }
+.card-white{
+	background-image: url('../images1/coworking.jpg');
+	height: 650px;
+	background-size: cover;
+	padding-top: 150px;
+	text-align: right;
+	color: white;
+
+}
+
+.a{
+
+	width: 32%;
+	min-height: 18vh;
+	background-color: #eee;
+	float: left;
+	margin-left: 12px;	
+}
+.wrapper2{
+	min-height: 20vh;
+}
+.roc{
+background-color:#C6C6C6 ;
+margin-top: 20px;
+padding:2px;	
+}
+.footer{
+	width: 100%;
+	margin: 20px;
+	height: 20vh;
+	
+padding: 20px
+}
+.btn.btn-Danger{
+
+	color:#FF55C2; 
+}
+.header{
+	width: 100%;
+	
+	min-height: 20vh;
+	background-color: #C6C6C6;
+	padding-left: 1em;
+	padding-right: 1em;
+
+  }
+  .footer{
+  width: 100%;
+	margin-bottom: 20px;
+	min-height: 20vh;
+	background-color: #000000;
+	padding-left: 1em;
+	padding-right: 1em;
+        text-align: :center;
+     
+	}
