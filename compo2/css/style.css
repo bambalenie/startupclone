@@ -1,0 +1,36 @@
+.noir.container{
+
+ background-color:#2b2d34; 
+padding: 20em;
+height: 100vh;
+width: 100px;
+margin:20em;	
+}
+img{
+float: : right;
+right: 200px;
+}
+body{
+
+	padding-left: 2em;
+	padding-right: 2em;
+}
+.button {
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.wrapper-gris{
+	
+padding: 20em;
+height: 100vh;
+width: 100px;
+margin:20em;
+}
